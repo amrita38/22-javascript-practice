@@ -1,6 +1,6 @@
 // create a an arrow that print"welcome to js".
 const welcome=()=>{
-    console.log("welcome to js");
+    console.log("welcome to js")
 }
 welcome()
 // create a arrow fun to subtract two no.
@@ -22,8 +22,9 @@ console.log(isgreaterthen100(50));
 
 // take a name and print greeting
 const greet =(name) =>{
-    console.log("hello" + name);
+    console.log("hello" + name)
 }
 greet("Amrita")
+
 
 
