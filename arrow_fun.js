@@ -25,9 +25,9 @@ const greet =(name) =>{
     console.log("hello" + name)
 }
 greet("Amrita")
-
-let arr =[2,5,7,4]
-let[a,b,...rest]=arr
-console.log(a,b,rest)
+//  
+// let arr =[2,5,7,4]
+// let[a,b,...rest]=arr
+// console.log(a,b,rest)
 
 
