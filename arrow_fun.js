@@ -8,7 +8,7 @@ let sub=(a,b)=>a-b;
 let subtract=sub(5,2);
 console.log(subtract);
 
-// return the cube of a number.
+// return the cube of a number..
 let cube=(x)=>{
     return x*x*x;
 }

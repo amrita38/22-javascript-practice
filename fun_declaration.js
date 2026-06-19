@@ -23,7 +23,7 @@ function square(num){
     return num*num;
 }
 console.log(square(5));
-// crate a fun find largest (a,b)
+// crate a fun find largest (a,b);
 function largest(a,b){
     if (a>b){
         console.log("a is greater")

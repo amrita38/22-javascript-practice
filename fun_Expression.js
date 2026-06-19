@@ -23,7 +23,7 @@ let checkNumber= function(num){
 checkNumber(5);
 checkNumber(-2);
 
-// return the lenth of a string
+// return the lenth of a string,
 
 let getlenth=function(str){
     return str.lenth;
